@@ -1,0 +1,10 @@
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\bin\Debug\netstandard2.1\Pixel.Application.Messaging.deps.json
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\bin\Debug\netstandard2.1\Pixel.Application.Messaging.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\bin\Debug\netstandard2.1\Pixel.Application.Messaging.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\obj\Debug\netstandard2.1\Pixel.Application.Messaging.csproj.AssemblyReference.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\obj\Debug\netstandard2.1\Pixel.Application.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\obj\Debug\netstandard2.1\Pixel.Application.Messaging.AssemblyInfoInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\obj\Debug\netstandard2.1\Pixel.Application.Messaging.AssemblyInfo.cs
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\obj\Debug\netstandard2.1\Pixel.Application.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\obj\Debug\netstandard2.1\Pixel.Application.Messaging.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Messaging\obj\Debug\netstandard2.1\Pixel.Application.Messaging.pdb

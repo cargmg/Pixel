@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oVXjmGZUTYFZ+gO+KRouylMxvCp2rQXxAvDIKW9PDpQ=",
+  "Source": "Storage.Presentation.Api",
+  "BasePath": "_content/Storage.Presentation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

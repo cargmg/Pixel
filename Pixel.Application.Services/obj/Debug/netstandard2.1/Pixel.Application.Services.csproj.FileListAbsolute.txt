@@ -1,0 +1,17 @@
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\bin\Debug\netstandard2.1\Pixel.Application.Services.deps.json
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\bin\Debug\netstandard2.1\Pixel.Application.Services.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\bin\Debug\netstandard2.1\Pixel.Application.Services.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\bin\Debug\netstandard2.1\Pixel.Application.Dto.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\bin\Debug\netstandard2.1\Pixel.Application.Messaging.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\bin\Debug\netstandard2.1\Pixel.Events.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\bin\Debug\netstandard2.1\Pixel.Application.Dto.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\bin\Debug\netstandard2.1\Pixel.Application.Messaging.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\bin\Debug\netstandard2.1\Pixel.Events.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\obj\Debug\netstandard2.1\Pixel.Application.Services.csproj.AssemblyReference.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\obj\Debug\netstandard2.1\Pixel.Application.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\obj\Debug\netstandard2.1\Pixel.Application.Services.AssemblyInfoInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\obj\Debug\netstandard2.1\Pixel.Application.Services.AssemblyInfo.cs
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\obj\Debug\netstandard2.1\Pixel.Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\obj\Debug\netstandard2.1\Pixel.Application.Services.csproj.CopyComplete
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\obj\Debug\netstandard2.1\Pixel.Application.Services.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Services\obj\Debug\netstandard2.1\Pixel.Application.Services.pdb

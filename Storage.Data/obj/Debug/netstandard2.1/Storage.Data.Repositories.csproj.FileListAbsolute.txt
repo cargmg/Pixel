@@ -1,0 +1,13 @@
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\bin\Debug\netstandard2.1\Storage.Data.Repositories.deps.json
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\bin\Debug\netstandard2.1\Storage.Data.Repositories.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\bin\Debug\netstandard2.1\Storage.Data.Repositories.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\obj\Debug\netstandard2.1\Storage.Data.Repositories.csproj.AssemblyReference.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\obj\Debug\netstandard2.1\Storage.Data.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\obj\Debug\netstandard2.1\Storage.Data.Repositories.AssemblyInfoInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\obj\Debug\netstandard2.1\Storage.Data.Repositories.AssemblyInfo.cs
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\obj\Debug\netstandard2.1\Storage.Data.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\obj\Debug\netstandard2.1\Storage.Data.Repositories.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\obj\Debug\netstandard2.1\Storage.Data.Repositories.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\bin\Debug\netstandard2.1\Storage.CrossCutting.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\bin\Debug\netstandard2.1\Storage.CrossCutting.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Data\obj\Debug\netstandard2.1\Storage.Data.Repositories.csproj.CopyComplete

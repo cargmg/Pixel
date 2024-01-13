@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\carlos.gregorio\\source\\repos\\PixelSolution\\Pixel.Events\\Pixel.Events.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\carlos.gregorio\\source\\repos\\PixelSolution\\Pixel.Events\\Pixel.Events.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\carlos.gregorio\\source\\repos\\PixelSolution\\Pixel.Events\\Pixel.Events.csproj",
+        "projectName": "Pixel.Events",
+        "projectPath": "C:\\Users\\carlos.gregorio\\source\\repos\\PixelSolution\\Pixel.Events\\Pixel.Events.csproj",
+        "packagesPath": "C:\\Users\\carlos.gregorio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlos.gregorio\\source\\repos\\PixelSolution\\Pixel.Events\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlos.gregorio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts-we1.farfetch.net/artifactory/api/nuget/fps-nuget-beta": {},
+          "https://artifacts-we1.farfetch.net/artifactory/api/nuget/fps-nuget-stable": {},
+          "https://artifacts-we1.farfetch.net/artifactory/api/nuget/nuget-beta": {},
+          "https://artifacts-we1.farfetch.net/artifactory/api/nuget/nuget-stable": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

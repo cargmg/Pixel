@@ -1,0 +1,10 @@
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\bin\Debug\netstandard2.1\Pixel.Events.deps.json
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\bin\Debug\netstandard2.1\Pixel.Events.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\bin\Debug\netstandard2.1\Pixel.Events.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\obj\Debug\netstandard2.1\Pixel.Events.csproj.AssemblyReference.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\obj\Debug\netstandard2.1\Pixel.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\obj\Debug\netstandard2.1\Pixel.Events.AssemblyInfoInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\obj\Debug\netstandard2.1\Pixel.Events.AssemblyInfo.cs
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\obj\Debug\netstandard2.1\Pixel.Events.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\obj\Debug\netstandard2.1\Pixel.Events.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Events\obj\Debug\netstandard2.1\Pixel.Events.pdb

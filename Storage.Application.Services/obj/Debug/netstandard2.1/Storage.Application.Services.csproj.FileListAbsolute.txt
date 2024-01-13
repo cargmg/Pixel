@@ -1,0 +1,17 @@
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\bin\Debug\netstandard2.1\Storage.Application.Services.deps.json
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\bin\Debug\netstandard2.1\Storage.Application.Services.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\bin\Debug\netstandard2.1\Storage.Application.Services.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\bin\Debug\netstandard2.1\Storage.Application.Dto.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\bin\Debug\netstandard2.1\Storage.Data.Repositories.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\bin\Debug\netstandard2.1\Storage.Application.Dto.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\bin\Debug\netstandard2.1\Storage.Data.Repositories.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\obj\Debug\netstandard2.1\Storage.Application.Services.csproj.AssemblyReference.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\obj\Debug\netstandard2.1\Storage.Application.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\obj\Debug\netstandard2.1\Storage.Application.Services.AssemblyInfoInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\obj\Debug\netstandard2.1\Storage.Application.Services.AssemblyInfo.cs
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\obj\Debug\netstandard2.1\Storage.Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\obj\Debug\netstandard2.1\Storage.Application.Services.csproj.CopyComplete
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\obj\Debug\netstandard2.1\Storage.Application.Services.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\obj\Debug\netstandard2.1\Storage.Application.Services.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\bin\Debug\netstandard2.1\Storage.CrossCutting.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.Application.Services\bin\Debug\netstandard2.1\Storage.CrossCutting.pdb

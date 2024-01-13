@@ -1,0 +1,10 @@
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\bin\Debug\netstandard2.1\Pixel.CrossCutting.deps.json
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\bin\Debug\netstandard2.1\Pixel.CrossCutting.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\bin\Debug\netstandard2.1\Pixel.CrossCutting.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\obj\Debug\netstandard2.1\Pixel.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\obj\Debug\netstandard2.1\Pixel.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\obj\Debug\netstandard2.1\Pixel.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\obj\Debug\netstandard2.1\Pixel.CrossCutting.AssemblyInfo.cs
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\obj\Debug\netstandard2.1\Pixel.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\obj\Debug\netstandard2.1\Pixel.CrossCutting.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.CrossCutting\obj\Debug\netstandard2.1\Pixel.CrossCutting.pdb

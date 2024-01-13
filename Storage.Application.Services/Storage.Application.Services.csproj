@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>Storage.Application.Services</AssemblyName>
+    <RootNamespace>Storage.Application.Services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Storage.Application.Dto\Storage.Application.Dto.csproj" />
+    <ProjectReference Include="..\Storage.Data\Storage.Data.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,32 @@
+version: "3.4"
+
+services:
+
+  pixel-service:
+    container_name: pixel-service
+    image: pixel-service
+    build:
+      context: .
+      dockerfile: Pixel.Api/Dockerfile
+    ports:
+      - "9666:9666"
+    depends_on:
+      - rabbit
+      
+  storage-service:
+    container_name: storage-service
+    image: storage-service
+    build:
+      context: .
+      dockerfile: Storage.Api/Dockerfile
+    ports:
+      - "9888:9888"
+    depends_on:
+      - rabbit
+      
+  rabbit:
+    container_name: rabbitmq
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"

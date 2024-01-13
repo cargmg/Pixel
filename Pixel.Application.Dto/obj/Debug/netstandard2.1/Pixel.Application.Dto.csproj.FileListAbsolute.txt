@@ -1,0 +1,10 @@
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\bin\Debug\netstandard2.1\Pixel.Application.Dto.deps.json
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\bin\Debug\netstandard2.1\Pixel.Application.Dto.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\bin\Debug\netstandard2.1\Pixel.Application.Dto.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\obj\Debug\netstandard2.1\Pixel.Application.Dto.csproj.AssemblyReference.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\obj\Debug\netstandard2.1\Pixel.Application.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\obj\Debug\netstandard2.1\Pixel.Application.Dto.AssemblyInfoInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\obj\Debug\netstandard2.1\Pixel.Application.Dto.AssemblyInfo.cs
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\obj\Debug\netstandard2.1\Pixel.Application.Dto.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\obj\Debug\netstandard2.1\Pixel.Application.Dto.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Pixel.Application.Dto\obj\Debug\netstandard2.1\Pixel.Application.Dto.pdb

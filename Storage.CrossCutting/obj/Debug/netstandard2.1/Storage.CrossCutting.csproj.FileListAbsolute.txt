@@ -1,0 +1,10 @@
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\bin\Debug\netstandard2.1\Storage.CrossCutting.deps.json
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\bin\Debug\netstandard2.1\Storage.CrossCutting.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\bin\Debug\netstandard2.1\Storage.CrossCutting.pdb
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\obj\Debug\netstandard2.1\Storage.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\obj\Debug\netstandard2.1\Storage.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\obj\Debug\netstandard2.1\Storage.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\obj\Debug\netstandard2.1\Storage.CrossCutting.AssemblyInfo.cs
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\obj\Debug\netstandard2.1\Storage.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\obj\Debug\netstandard2.1\Storage.CrossCutting.dll
+C:\Users\carlos.gregorio\source\repos\PixelSolution\Storage.CrossCutting\obj\Debug\netstandard2.1\Storage.CrossCutting.pdb

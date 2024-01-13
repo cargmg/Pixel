@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Storage.Application.Services/1.0.0": {
+        "dependencies": {
+          "Storage.Application.Dto": "1.0.0",
+          "Storage.Data.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "Storage.Application.Services.dll": {}
+        }
+      },
+      "Storage.Application.Dto/1.0.0": {
+        "runtime": {
+          "Storage.Application.Dto.dll": {}
+        }
+      },
+      "Storage.CrossCutting/1.0.0": {
+        "runtime": {
+          "Storage.CrossCutting.dll": {}
+        }
+      },
+      "Storage.Data.Repositories/1.0.0": {
+        "dependencies": {
+          "Storage.CrossCutting": "1.0.0"
+        },
+        "runtime": {
+          "Storage.Data.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Storage.Application.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Storage.Application.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Storage.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Storage.Data.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

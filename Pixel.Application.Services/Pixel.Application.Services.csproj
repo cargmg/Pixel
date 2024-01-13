@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>Pixel.Application.Services</AssemblyName>
+    <RootNamespace>Pixel.Application.Services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Guard.Net" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pixel.Application.Dto\Pixel.Application.Dto.csproj" />
+    <ProjectReference Include="..\Pixel.Application.Messaging\Pixel.Application.Messaging.csproj" />
+    <ProjectReference Include="..\Pixel.Events\Pixel.Events.csproj" />
+  </ItemGroup>
+
+</Project>
